@@ -297,3 +297,12 @@
 .product_btn_right:hover, .product_btn_left:hover {
     box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
+
+.about_title {
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 45.32px;
+    text-align: center;
+}
